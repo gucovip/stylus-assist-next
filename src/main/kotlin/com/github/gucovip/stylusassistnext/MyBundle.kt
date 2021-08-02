@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.gucovip.stylusassistnext
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

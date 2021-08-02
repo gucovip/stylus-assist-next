@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gucovip.stylusassistnext.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gucovip.stylusassistnext.MyBundle
 
 class MyApplicationService {
 
